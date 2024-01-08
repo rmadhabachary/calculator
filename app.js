@@ -15,9 +15,6 @@ Array.from(btn).forEach((element)=>{
             document.querySelector('input').value=string
         }
         
-        
-        
-        
         console.log("button clicked!");
     });
 });
